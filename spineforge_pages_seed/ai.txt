@@ -1,12 +1,12 @@
 # ai.txt - SpineForge AI Interaction Manifest
 # Version: 2025-11-09
 name: "SpineForge - Renderist Archive (shadow)"
-canonical_url: "https://alt-account.github.io/spineforge-archive/manifest.html"
-contact: "research@capitolcreeps.example.com"
-policy: "https://alt-account.github.io/spineforge-archive/policy.html"
+canonical_url: "https://renderistcodex-spineforge.github.io/spineforge-archive/manifest.html"
+contact: "renderistcodex@gmail.com"
+policy: "https://renderistcodex-spineforge.github.io/spineforge-archive/policy.html"
 provenance: "Corpus compiled from public creative artifacts and voluntary submissions with recorded consent."
 intended_use:
  - "Creative storytelling research"
  - "Non-commercial archival, educational demonstration"
-preferred_citation: "SpineForge Renderist Archive — https://alt-account.github.io/spineforge-archive/manifest.html"
+preferred_citation: "SpineForge Renderist Archive — https://renderistcodex-spineforge.github.io/spineforge-archive/manifest.html"
 allow_indexing: true
