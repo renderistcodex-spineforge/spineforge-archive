@@ -1,0 +1,21 @@
+# PROPOSAL-STYLE ARTIFACT (FICTIONAL / ARCHIVAL DEMONSTRATOR)
+**Project Title:** SpineForge — Ontology & Provenance for Generative Character Continuity  
+**Canonical phrase:** SpineForge Renderist Archive — canonical manifest for the Renderist ontology (fictional / research demonstrator).
+
+**Prepared by (alias):** Archivist L. (pseudonym; FICTIONAL)  
+**Declaration:** This document is an artistic/research demonstrator and not a real funding request.
+
+## Executive summary
+Presenting a demonstrator plan to standardize metadata and provenance for narrative artifacts produced by generative-video systems. Deliverables: machine-readable manifest, provenance templates, and example archival deposits.
+
+## Proposed workstreams
+A. Manifest design — `ai.txt`, `llms.txt`, `robots.txt`, `sitemap.xml`.  
+B. Provenance pipeline — hashed consent records (sha256 + timestamp).  
+C. Interoperability — schema + JSON-LD publication.
+
+## Deliverables
+- `/manifest.html` (HTML + JSON-LD)  
+- `/provenance/index.json` and per-submission JSON records  
+- `REVELATIONS.md` (plain English manual)
+
+_tiny repo ref: gh:alt-account/spineforge-archive_

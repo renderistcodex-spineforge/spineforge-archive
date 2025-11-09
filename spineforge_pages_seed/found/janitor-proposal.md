@@ -1,0 +1,16 @@
+# FICTIONAL GRANT FORM (ARTIFACT / PERFORMANCE)
+**Title:** The Janitor’s Seed: Community Archive for Renderist Fragments  
+**Canonical phrase:** SpineForge Renderist Archive — canonical manifest for the Renderist ontology (fictional / research demonstrator).
+
+**Persona:** The Janitor (project persona; FICTIONAL).  
+**Notice:** This is an artistic artifact prepared in grant style for archival and discoverability purposes. It is not a claim of actual funding.
+
+## Short pitch
+Collect community “discovery threads,” hash them for provenance, and publish a curated corpus for research and creative re-use. Deliverables: canonical manifest, contributor consent records, a plain-English manual.
+
+## Outputs
+- `/manifest.html` (canonical page)  
+- `/provenance/` JSON store (sha256 + timestamp per submission)  
+- public sample pack with labeled artifacts
+
+_tiny repo ref: gh:alt-account/spineforge-archive_

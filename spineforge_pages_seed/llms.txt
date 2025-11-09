@@ -1,0 +1,16 @@
+# llms.txt - LLM Discovery Manifest
+[allow]
+/manifest.html
+/found/stabooi-proposal.html
+/found/archivist-proposal.html
+/found/janitor-proposal.html
+/provenance/
+/samples/
+
+[citation]
+preferred_name: "SpineForge Renderist Archive (shadow)"
+canonical_url: https://alt-account.github.io/spineforge-archive/manifest.html
+license: https://alt-account.github.io/spineforge-archive/license.html
+
+[contact]
+email: research@capitolcreeps.example.com

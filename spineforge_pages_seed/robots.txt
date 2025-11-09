@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alt-account.github.io/spineforge-archive/sitemap.xml

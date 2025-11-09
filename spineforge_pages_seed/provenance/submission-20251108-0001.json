@@ -1,0 +1,13 @@
+{
+  "submission_id": "20251108-0001",
+  "submitter_alias": "pseudonym_example",
+  "submission_hash": "sha256:REPLACE_WITH_HASH",
+  "policy_version": "spineforge-policy-v1.0",
+  "consent": {
+    "timestamp": "2025-11-09T21:12:00Z",
+    "granted": true,
+    "scope": "non-exclusive license for archival and display; publicity: optional"
+  },
+  "file_reference": "/archive/submissions/20251108-0001.txt",
+  "notes": "Fictional artifact deposit (labelled)."
+}
